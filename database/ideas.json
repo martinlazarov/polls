@@ -1,0 +1,15 @@
+{
+    "_id": 0,
+    "userId": "",
+    "campaignId": "",
+    "title": "",
+    "description": "",
+    "price": 0.00,
+    "images": [],
+    "likes": [],
+    "links": [],
+    "engaged": [],
+    "created_on": "",
+    "updated_on": "",
+    "deleted_on": ""
+}
